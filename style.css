@@ -11,4 +11,16 @@ width: auto;
 .nosotros{
 display:flex;
 width:auto;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.datos{
+background-color: gray;    
+}
+
+.campo{
+display: flex; 
+flex-direction: column;   
 }
